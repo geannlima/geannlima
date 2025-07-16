@@ -31,10 +31,6 @@
 ![SQL](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/100px-Sql_data_base_with_logo.png)
 ![Power BI](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/50px-New_Power_BI_Logo.svg.png)
 ![Excel](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/50px-Microsoft_Excel_2013-2019_logo.svg.png)
-![Lean Six Sigma](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Lean-six-sigma-yellow-belt.png/50px-Lean-six-sigma-yellow-belt.png)
-![ETL/ELT](https://holistics.io/blog/etl-vs-elt-how-elt-is-changing-the-bi-landscape/media/etl.png)
-![Git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/50px-Git-logo.svg.png)
-![Docker](https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png)
 
 </div>
 

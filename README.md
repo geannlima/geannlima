@@ -67,17 +67,17 @@
 
 ## 📬 Contato
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/geann-barreto" target="_blank" rel="noopener noreferrer" style="margin: 0 40px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" />
+<div align="center" style="text-align: center;">
+  <a href="https://www.linkedin.com/in/geann-barreto" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" style="display:inline-block; padding: 0 30px;" />
   </a>
-  <a href="https://www.instagram.com/geannlima_" target="_blank" rel="noopener noreferrer" style="margin: 0 40px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="40" />
+  <a href="https://www.instagram.com/geannlima_" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="40" style="display:inline-block; padding: 0 30px;" />
   </a>
-  <a href="mailto:geannlima@hotmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 40px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" />
+  <a href="mailto:geannlima@hotmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" style="display:inline-block; padding: 0 30px;" />
   </a>
-</div>
+</div
 
 
 

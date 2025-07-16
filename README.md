@@ -33,7 +33,7 @@
 ![Spark](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/100px-Apache_Spark_logo.svg.png)
 ![MongoDB](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/150px-MongoDB_Logo.svg.png)
 ![Power BI](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/50px-New_Power_BI_Logo.svg.png)
-![Tableau](https://cdn.worldvectorlogo.com/logos/tableau-software.svg)
+![Tableau](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Tableau_Logo.png/50px-Tableau_Logo.png)
 
 </div>
 

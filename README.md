@@ -78,9 +78,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" style="display:inline-block; padding: 0 30px;" />
   </a>
 </div
-
-
-
+</p>
 
 ---
 

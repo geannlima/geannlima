@@ -28,7 +28,7 @@
 <div align="center">
   
 ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/50px-Python-logo-notext.svg.png)
-![SQL](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/50px-Sql_data_base_with_logo.png)
+![SQL](https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png)
 ![Power BI](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Microsoft_Power_BI_Logo.svg/50px-Microsoft_Power_BI_Logo.svg.png) 
 ![Excel](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013_logo.svg/50px-Microsoft_Excel_2013_logo.svg.png)
 ![Lean Six Sigma Yellow Belt](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Lean-six-sigma-yellow-belt.png/50px-Lean-six-sigma-yellow-belt.png)  

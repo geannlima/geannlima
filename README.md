@@ -34,7 +34,6 @@
 ![Pandas](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/100px-Pandas_logo.svg.png)
 ![NumPy](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/100px-NumPy_logo.svg.png)
 ![Jupyter](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/50px-Jupyter_logo.svg.png)
-![Git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/100px-Git-logo.svg.png)
 
 
 </div>

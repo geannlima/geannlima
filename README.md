@@ -29,7 +29,7 @@
   
 ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/50px-Python-logo-notext.svg.png)
 ![SQL](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/100px-Sql_data_base_with_logo.png)
-![Power BI](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Microsoft_Power_BI_Logo.svg/256px-Microsoft_Power_BI_Logo.svg.png)
+![Power BI]([https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Microsoft_Power_BI_Logo.svg/256px-Microsoft_Power_BI_Logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg))
 
 
 

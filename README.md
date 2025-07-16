@@ -29,7 +29,7 @@
   
 ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/50px-Python-logo-notext.svg.png)
 ![SQL](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/100px-Sql_data_base_with_logo.png)
-![Power BI](https://raw.githubusercontent.com/github/explore/main/topics/powerbi/powerbi.png)
+![Power BI](https://cdn-icons-png.flaticon.com/512/3176/3176292.png)
 
 
 </div>

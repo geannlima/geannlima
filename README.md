@@ -31,6 +31,9 @@
 ![SQL](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/100px-Sql_data_base_with_logo.png)
 ![Power BI](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/50px-New_Power_BI_Logo.svg.png)
 ![Excel](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/50px-Microsoft_Excel_2013-2019_logo.svg.png)
+![MongoDB](https://raw.githubusercontent.com/mongodb/mongodb-logo/master/svg/mongodb-logo-rgb.svg)
+![Spark](https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg)
+![Tableau](https://upload.wikimedia.org/wikipedia/commons/3/30/Tableau_Logo.svg)
 
 </div>
 
@@ -74,7 +77,7 @@
   <a href="https://www.instagram.com/geannlima_" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="40" style="display:inline-block; padding: 0 30px;" />
   </a>
-  <a href="mailto:geannlima@hotmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:geannlimabarreto@hotmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" style="display:inline-block; padding: 0 30px;" />
   </a>
 </div

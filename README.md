@@ -31,9 +31,10 @@
 ![SQL](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/100px-Sql_data_base_with_logo.png)
 ![Power BI](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/50px-New_Power_BI_Logo.svg.png)
 ![Excel](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/50px-Microsoft_Excel_2013-2019_logo.svg.png)
-![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-blue?style=flat-square&logo=database)
-
-
+![Pandas](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/50px-Pandas_logo.svg.png)
+![NumPy](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/50px-NumPy_logo.svg.png)
+![Jupyter](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/50px-Jupyter_logo.svg.png)
+![Git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/50px-Git-logo.svg.png)
 
 
 </div>

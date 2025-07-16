@@ -31,7 +31,7 @@
 ![SQL](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/100px-Sql_data_base_with_logo.png)
 ![Excel](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/50px-Microsoft_Excel_2013-2019_logo.svg.png)
 ![Spark](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/100px-Apache_Spark_logo.svg.png)
-![MongoDB](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/50px-MongoDB_Logo.svg.png)
+![MongoDB](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/150px-MongoDB_Logo.svg.png)
 ![Tableau](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Tableau_Logo.svg/50px-Tableau_Logo.svg.png)
 ![Power BI](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/50px-New_Power_BI_Logo.svg.png)
 

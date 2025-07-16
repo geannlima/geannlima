@@ -30,6 +30,7 @@
 ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/50px-Python-logo-notext.svg.png)
 ![SQL](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/100px-Sql_data_base_with_logo.png)
 ![Power BI](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/50px-New_Power_BI_Logo.svg.png)
+![Excel](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013_logo.svg/120px-Microsoft_Excel_2013_logo.svg.png)
 
 
 

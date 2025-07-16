@@ -74,8 +74,8 @@
   <a href="https://www.instagram.com/geannlima_" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:seu-email-aqui@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:seu-email-aqui@hotmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" />
   </a>
 </p>
 

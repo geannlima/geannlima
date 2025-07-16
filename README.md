@@ -67,15 +67,18 @@
 
 ## 📬 Contato
 
-<a href="https://www.linkedin.com/in/geann-barreto" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" style="margin-right:10px;"/>
-</a>
-<a href="https://www.instagram.com/geannlima_" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="40" style="margin-right:10px;"/>
-</a>
-<a href="mailto:seu-email-aqui@hotmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40"/>
-</a>
+<div style="text-align:center;">
+  <a href="https://www.linkedin.com/in/geann-barreto" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" />
+  </a>
+  <a href="https://www.instagram.com/geannlima_" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="40" />
+  </a>
+  <a href="mailto:seu-email-aqui@hotmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" />
+  </a>
+</div>
+
 
 
 ---

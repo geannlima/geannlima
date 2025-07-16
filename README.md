@@ -27,7 +27,7 @@
 
 <div align="center">
   
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python]([https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white](https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png))
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
